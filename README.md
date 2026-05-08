@@ -1,103 +1,92 @@
-# 👋 Abderrahmane Taha
+# 👋 Hi, I'm Abderrahmane Taha
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1200&color=0A1F44&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+Scalable+Web+Apps;Clean+Code+%7C+Performance+%7C+Design" />
+  <img 
+    alt="Typing animation: Full Stack Web Developer, Building Modern Scalable Web Apps, Clean Code | Performance | UI/UX" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0A1F44&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Building+Modern+Scalable+Web+Apps;Clean+Code+%7C+Performance+%7C+UI%2FUX" 
+  />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a **Full Stack Web Developer** focused on building **fast, scalable, and clean web applications**.
+💻 Full Stack Web Developer passionate about creating modern, scalable, and performant web applications.
 
-- ⚙️ Clean architecture & maintainable code  
-- 🧠 Problem-solving mindset  
-- 🚀 Performance & usability focused  
-- 📚 Continuous learner of modern technologies  
+- ⚡ Fast & optimized applications
+- 🧠 Problem-solving mindset
+- 🎨 Clean UI/UX design
+- 🔥 Modern technologies enthusiast
+- 📚 Continuous learning
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages & Core
+### 💻 Languages
+
 <p align="center">
+  <img alt="Languages: HTML, CSS, JavaScript, PHP, Python" src="https://skillicons.dev/icons?i=html,css,js,php,python" />
+</p>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+### ⚛️ Frontend
 
+<p align="center">
+  <img alt="Frontend: React, Bootstrap, jQuery, Material UI" src="https://skillicons.dev/icons?i=react,bootstrap,jquery,materialui" />
+</p>
+
+### 🔧 Backend, Database & Server
+
+<p align="center">
+  <img alt="Backend & DB: Firebase, MySQL, WordPress" src="https://skillicons.dev/icons?i=firebase,mysql,wordpress" />
+</p>
+
+<p align="center">
+  <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+### ☁️ Deployment
+
+<p align="center">
+  <img alt="Deployment: Vercel, Netlify" src="https://skillicons.dev/icons?i=vercel,netlify" />
+</p>
+
+### 🧰 Tools & Collaboration
+
+<p align="center">
+  <img alt="Tools: Git, GitHub, GitLab, Figma" src="https://skillicons.dev/icons?i=git,github,gitlab,figma" />
 </p>
 
 ---
 
-### ⚛️ Frontend & UI
+## 📊 GitHub Analytics
+
+<!-- ============================================================ -->
+<!-- The original github-readme-stats service is often overloaded. -->
+<!-- We now use a more reliable community endpoint: gh-stats.com   -->
+<!-- ============================================================ -->
+
 <p align="center">
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-
+  <img 
+    height="180em" 
+    alt="GitHub Stats" 
+    src="https://gh-stats.com/api?username=abderrahmanetaha7-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+  />
+  <img 
+    height="180em" 
+    alt="Top Languages" 
+    src="https://gh-stats.com/api/top-langs?username=abderrahmanetaha7-lgtm&layout=compact&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
----
-
-### 🔧 Backend & Database
+<!-- Streak stats (still from demolab, which works fine) -->
 <p align="center">
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-</p>
-
----
-
-### ☁️ Deployment & Hosting
-<p align="center">
-
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-</p>
-
----
-
-### 🎨 Design & Productivity
-<p align="center">
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-</p>
-
----
-
-### 🧰 Version Control & Collaboration
-<p align="center">
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abderrahmanetaha7-lgtm&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abderrahmanetaha7-lgtm&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahmanetaha7-lgtm&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img 
+    height="180em" 
+    alt="GitHub Streak" 
+    src="https://streak-stats.demolab.com?user=abderrahmanetaha7-lgtm&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 ---
@@ -105,25 +94,33 @@ I am a **Full Stack Web Developer** focused on building **fast, scalable, and cl
 ## 🧠 Philosophy
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Code-0A1F44?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scalable%20Systems-003366?style=for-the-badge&logo=serverless&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Performance-001F3F?style=for-the-badge&logo=speedtest&logoColor=white"/>
+  <img alt="Clean Code badge" src="https://img.shields.io/badge/Clean_Code-0A1F44?style=for-the-badge" />
+  <img alt="Scalable Systems badge" src="https://img.shields.io/badge/Scalable_Systems-003366?style=for-the-badge" />
+  <img alt="Performance badge" src="https://img.shields.io/badge/Performance-001F3F?style=for-the-badge" />
 </p>
 
-> "I don’t just write code — I build scalable systems that last."
+> "I don't just build websites — I build scalable digital experiences."
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abde-rrahmane-taha-492aa8404/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/abde-rrahmane-taha-492aa8404/" target="_blank">
+    <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/abderrahmanetaha7-lgtm" target="_blank">
+    <img alt="GitHub" src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
 ---
 
+## 👀 Profile Views
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abderrahmanetaha7-lgtm&style=flat-square&color=0A1F44" />
+  <img 
+    alt="Profile view counter" 
+    src="https://komarev.com/ghpvc/?username=abderrahmanetaha7-lgtm&label=Profile+Views&color=0A1F44&style=for-the-badge" 
+  />
 </p>
